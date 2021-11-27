@@ -1,0 +1,10 @@
+restAPI/PostRequestWithMap.class
+RestAPIChaining/EndToEndTest.class
+restAPI/PutRequest.class
+restAPI/GetRequest.class
+com/simplilearn/RestAssured_maven/App.class
+restAPI/GetRequestWithParams.class
+restAPI/PostRequest.class
+restAPI/DeleteRequest.class
+restAPI/PostRequestWithJsonFile.class
+restAPI/PostRequestWithJsonObject.class

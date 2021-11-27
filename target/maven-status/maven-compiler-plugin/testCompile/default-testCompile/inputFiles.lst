@@ -1,0 +1,9 @@
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/GetRequest.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/DeleteRequest.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/PostRequest.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/PostRequestWithMap.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/GetRequestWithParams.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/PostRequestWithJsonObject.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/PostRequestWithJsonFile.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/restAPI/PutRequest.java
+/Users/sudipa/Postman/RestAssured-maven/src/test/java/RestAPIChaining/EndToEndTest.java
